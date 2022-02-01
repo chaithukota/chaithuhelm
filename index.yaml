@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  javawebappp:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-02-01T19:48:02.737434832Z"
+    description: A Helm chart for Kubernetes
+    digest: 8996b27c3b3cb62c11273c2a8045ead08bdb6b31928c696a0a32171b758d2939
+    name: javawebappp
+    type: application
+    urls:
+    - https://chaithukota.github.io/chaithuhelm/javawebappp-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-02-01T19:48:02.736121624Z"
